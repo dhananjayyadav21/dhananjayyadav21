@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [http://iamdhananjay.com](http://iamdhananjay.com)
+- 👨‍💻 All of my projects are available at [https://dhananjay.amethisoft.com/](https://dhananjay.amethisoft.com/)
 
 - 💬 Ask me about **Web Development**
 
