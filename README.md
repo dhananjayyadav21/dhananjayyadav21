@@ -48,6 +48,7 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | 🎓 **Examee** | Education platform with good UI | [🔗 Live](https://github.com/dhananjayyadav21/Examee) |
+| 🏥 **TravelEasyHai** | Online consultation system | [🔗 Live](https://traveleasyhai.vercel.app/) |
 | 👥 **Alumni** | Alumni networking & communication portal | [🔗 Live](https://edunetnexus.netlify.app/) |
 | 🏥 **HealthCure** | Online consultation system | [🔗 Live](https://healthcuree.netlify.app/) |
 
