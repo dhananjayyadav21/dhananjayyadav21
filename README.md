@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhananjay Yadav</h1>
-<h3 align="center">🚀 Web Developer | MERN Stack | Java & Python Enthusiast</h3>
+<h3 align="center">🚀 Web Developer | MERN Stack | Java & Python Enthusiast </h3>
 
 ---
 
