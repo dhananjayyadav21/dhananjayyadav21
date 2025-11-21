@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Welcome%20to%20My%20GitHub%20Profile-00bfff?style=for-the-badge&logo=github&logoColor=white" alt="Welcome Badge"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Dhananjay Yadav </h1>
+<h1 align="center">Hi 👋, I'm Dhananjay Yadav</h1>
 <h3 align="center">🚀 Web Developer | MERN Stack | Java & Python Enthusiast</h3>
 
 ---
