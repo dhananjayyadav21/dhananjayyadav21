@@ -4,16 +4,16 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhananjay Yadav</h1>
-<h3 align="center">🚀 Web Developer | MERN Stack | Java & Python Enthusiast </h3>
+<h3 align="center"> Web Developer | MERN Stack | DSA Enthusiast 👨🏻‍💻 </h3>
 
 ---
 
 ## 👨‍💻 About Me  
-- 💡 Turning **ideas into interactive experiences**  
-- 🎓 Pursuing **Bachelors in IT** @ Ramanand Arya DAV College  
-- 💻 Freelance Web Developer | MERN | React | Java | Python  
-- 📚 Always learning **new tools & frameworks**  
-- 🎯 Mission: Build impactful, scalable tech solutions  
+-  Turning **ideas into interactive experiences**  
+-  Pursuing **Bachelors in IT** @ Ramanand Arya DAV College  
+-  Web Developer | MERN | React | Java | Python  
+-  Always learning **new tools & frameworks**  
+-  Mission: Build impactful, scalable tech solutions  
 
 ---
 
